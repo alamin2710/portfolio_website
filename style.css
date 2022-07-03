@@ -43,3 +43,15 @@ section {
     border-radius: 10px;
     font-size: large;
 }
+
+/* second section part css style start here */
+.second-part {
+    margin-top: 100px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+#pra {
+    text-align: left;
+}
