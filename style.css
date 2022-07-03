@@ -13,7 +13,7 @@ h1 {
     color: orange;
 }
 
-section {
+.flexible {
     display: flex;
 }
 
@@ -52,6 +52,15 @@ section {
     background-position: right;
 }
 
-#pra {
-    text-align: left;
+/* second section part css style end here */
+
+/*  Exprience third section part css style start here */
+.experineces_sec {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-top: 100px;
 }
+
+
+/*  Exprience third section part css style end here */
