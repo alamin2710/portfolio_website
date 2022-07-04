@@ -55,12 +55,39 @@ h1 {
 /* second section part css style end here */
 
 /*  Exprience third section part css style start here */
+
 .experineces_sec {
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
     margin-top: 100px;
+    margin-bottom: 100px;
 }
 
+.experineces-box {
+    box-shadow: 15px 20px 50px grey;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.experineces-box-head {
+    font-size: 40px;
+}
+
+#experineces-box-left {
+    border-left: 10px solid salmon;
+}
+
+#experineces-box-right {
+    border-left: 10px solid blue;
+}
 
 /*  Exprience third section part css style end here */
+
+footer p {
+    text-align: center;
+    margin-top: 200px;
+}
