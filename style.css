@@ -9,6 +9,12 @@ h1 {
     font-size: 60px;
 }
 
+p {
+    font-weight: 400;
+    font-size: 20px;
+    color: gray;
+}
+
 .text-color {
     color: orange;
 }
@@ -30,6 +36,10 @@ h1 {
 
 .first_section img {
     width: 80%;
+}
+
+.first-pra {
+    text-align: justify;
 }
 
 .first-button {
@@ -92,6 +102,10 @@ h1 {
     margin-right: 5%;
     padding: 15px;
     border-radius: 10px;
+}
+
+.experineces-box p {
+    text-align: justify;
 }
 
 .experineces-box-head {
