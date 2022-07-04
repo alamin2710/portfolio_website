@@ -32,7 +32,7 @@ h1 {
     width: 80%;
 }
 
-.btn {
+.first-button {
     color: white;
     text-decoration: none;
     padding: 10px 40px;
@@ -50,6 +50,27 @@ h1 {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.second-button {
+    color: white;
+    text-decoration: none;
+    padding: 13px 20px;
+    text-align: center;
+    font-weight: 700;
+    border: none;
+    background-image: linear-gradient(lightsalmon, tomato);
+    border-radius: 10px;
+    font-size: large;
+}
+
+#second_section-text {
+    font-weight: 600;
+    font-size: 45px;
+}
+
+#span-text-color2 {
+    color: blue;
 }
 
 /* second section part css style end here */
